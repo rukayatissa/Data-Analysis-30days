@@ -1,7 +1,7 @@
-# Data-Analysis-30days
-This is the documentation of everything i learn during the 30days data analytics program by Oyinbooke
+# Data-Analysis-Baby Steps
 
-# Problem Statement
+
+# Project Objective/Problem Statement
 
 ----------------------------
 
@@ -13,4 +13,4 @@ This is the documentation of everything i learn during the 30days data analytics
 
 ------------------------------
 
-# Feedback & Recommendation
+# Findings & Recommendation
